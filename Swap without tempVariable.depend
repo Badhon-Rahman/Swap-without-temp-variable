@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1571920521 source:c:\badhon\swap without tempvariable\main.cpp
+	<iostream>
+	<stdio.h>
+
